@@ -1,0 +1,1 @@
+{"uuid":"71ddb208-3be2-4c8d-8dde-5020e26f1a28","name":"checkDeckSize()","children":["3b2c22fc-f92b-41fe-9b02-93fe6a26c7d8"],"befores":[{"name":"createNewDeck","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1704369813004,"stop":1704369813004}],"afters":[],"start":1704369813002,"stop":1704369813006}

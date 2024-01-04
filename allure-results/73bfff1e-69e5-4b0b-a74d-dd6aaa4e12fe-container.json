@@ -1,0 +1,1 @@
+{"uuid":"73bfff1e-69e5-4b0b-a74d-dd6aaa4e12fe","name":"checkRiskLose()","children":["a4deb5a4-cebf-4b00-9bf9-1bca269e90f7"],"befores":[{"name":"initDoors","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1704369152600,"stop":1704369152601}],"afters":[],"start":1704369152597,"stop":1704369152603}

@@ -1,0 +1,1 @@
+{"uuid":"5787863c-0920-4591-9825-4ea90a3e3858","name":"TestRoundRiskLose()","children":["7050c719-786b-4f43-b19f-d2713ebf1aad"],"befores":[{"name":"doors","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1704369812897,"stop":1704369812897}],"afters":[],"start":1704369812895,"stop":1704369812899}
